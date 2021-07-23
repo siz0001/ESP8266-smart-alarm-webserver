@@ -5,8 +5,8 @@
 #include <DNSServer.h>
 #include <WiFiManager.h>
 
-const char* ssid = "home 2.4G";
-const char* password = "qazwsx12";
+const char* ssid = "";
+const char* password = "";
 
 const int trigPin = 2;  //D4
 const int echoPin = 4;  //D3
