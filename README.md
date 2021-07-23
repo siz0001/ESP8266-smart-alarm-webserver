@@ -12,4 +12,4 @@
 ## cable connect
 - 도선 연결은 매우 간단함. HC-SR04의 trig = D4, echo = D2에 연결하면 됨
   
-<a href="https://github.com/siz0001/ESP8266-smart-alarm-webclient"></a> 에서 client 파일 참조
+<a href="https://github.com/siz0001/ESP8266-smart-alarm-webclient">client</a>  참조
